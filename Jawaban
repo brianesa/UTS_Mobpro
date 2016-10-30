@@ -1,6 +1,6 @@
 1. ImageView
 2. XML Properties
 3. iLikePracticeSetsTheBest
-4. Layout
+4. ViewGroup
 5. android:layout_centerHorizontal="true" 
 6. nomor 1 dan 2 sama2 memiliki layout linear tapi perbedaannya yang nomor 1 berorientasi vertical sehingga widget-widgetnya pun tersusun ke vertikal dari atas ke bawah, sedangkan yang nomor 2 horizontal dan widgetnya tersusun horizontal ke samping
